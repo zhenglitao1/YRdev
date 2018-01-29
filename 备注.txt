@@ -1,0 +1,14 @@
+1：新增---图片  about文件夹
+
+2：页面   add-realdata.html
+
+3：新增---css  add_about.css
+
+4：新增---JS   jquery.myProgress.js
+
+               jq.Slide.js
+
+5：修改css   
+
+   novice.css
+
